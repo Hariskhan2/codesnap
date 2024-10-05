@@ -17,4 +17,35 @@ CodeSnap is a powerful and intuitive online code editor that allows users to wri
 - **html-to-image**: A library to convert HTML elements into images.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
 
+## Installation
+**Clone the repository:**
+- git clone https://github.com/yourusername/code-to-image-editor.git
+- cd code-to-image-editor
 
+**Install the dependencies:**
+- npm install
+
+**Start the development server:**
+- npm start
+
+## Folder Structure
+
+.
+├── src
+│   ├── components
+│   │   ├── EditorComponent.js    # Main editor component
+│   │   ├── NavBar.js             # Navigation bar for selecting format and generating image
+│   │
+│   ├── App.js                    # Root component
+│   └── index.js                  # Main entry point for the application
+├── public
+│   └── index.html                # Main HTML file
+├── README.md                     # This readme file
+└── package.json                  # Project metadata and dependencies
+
+
+## Dependencies
+- **React**: ^17.x
+- **Monaco Editor**: ^0.x
+- **html-to-image**: ^1.x
+- **Tailwind CSS**: ^3.x
