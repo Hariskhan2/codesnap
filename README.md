@@ -1,6 +1,6 @@
 # CodeSnap
 
-CodeSnap is a powerful and intuitive online code editor that allows users to write, edit, and preview HTML and CSS in real-time. With a user-friendly interface, live preview capabilities, and image export options, CodeSnap is designed for developers, designers, and anyone looking to create beautiful web content quickly and efficiently.
+CodeSnap is a powerful and intuitive online code editor that allows users to write, edit, and preview HTML and CSS in real time. With a user-friendly interface, live preview capabilities, and image export options, CodeSnap is designed for developers, designers, and anyone looking to create beautiful web content quickly and efficiently.
 
 ## Features
 
@@ -19,7 +19,7 @@ CodeSnap is a powerful and intuitive online code editor that allows users to wri
 
 ## Installation
 **Clone the repository:**
-- git clone https://github.com/yourusername/code-to-image-editor.git
+- git clone https://github.com/Hariskhan2/codesnap.git
 - cd code-to-image-editor
 
 **Install the dependencies:**
